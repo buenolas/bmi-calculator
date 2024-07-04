@@ -10,10 +10,9 @@ This project is a simple web application to calculate Body Mass Index (BMI). The
 
 ### How to Use
 
-1. Clone or download this repository.
-2. Open `index.html` in your web browser.
-3. Enter your name, height (in meters), and weight (in kilograms).
-4. Click the "Compute" button to calculate your BMI and see the result.
+1. Visit the website: https://buenolas.github.io/bmi-calculator/
+2. Enter your name, height (in meters), and weight (in kilograms).
+3. Click the "Compute" button to calculate your BMI and see the result.
 
 ### Files
 
